@@ -12,7 +12,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MateusBreno)](https://github.com/MateusBreno)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-breno-29700a17a/)](https://www.linkedin.com/in/mateus-breno-29700a17a/)
-[![Intagram Badge](https://img.shields.io/badge/-Instagram-ff0000?style=flat-square&labelColor=ff0000&logo=instagram&logoColor=white&link=https://www.instagram.com/devbreno/)](https://www.instagram.com/devbreno/)
+[![Intagram Badge](https://img.shields.io/badge/-Instagram-ff0000?style=flat-square&labelColor=ff0000&logo=instagram&logoColor=white&link=https://www.instagram.com/omateusbreno/)](https://www.instagram.com/omateusbreno/)
 
 ### About me
 I'm a {backend, frontend and mobile} developer and test automator.
